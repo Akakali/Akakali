@@ -8,8 +8,5 @@
   <img align="center" alt="Akakali-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 <div><br>
-  <a href="https://www.linkedin.com/in/juan-pablo-83859a224" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
-<div><br>
   <img align="left" alt="Akakali-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/870668499985522758/954932690702966784/252870904_490463949403592_1260259666407406540_n.png">
 </div>
