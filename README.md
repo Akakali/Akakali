@@ -7,6 +7,3 @@
   <img align="center" alt="Akakali-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Akakali-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
-<div><br>
-  <img align="left" alt="Akakali-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/870668499985522758/954932690702966784/252870904_490463949403592_1260259666407406540_n.png">
-</div>
